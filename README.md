@@ -47,3 +47,4 @@ This project is a cryptocurrency price tracking web application developed using 
 2. **Search Cryptocurrencies**: Use the search bar to find specific cryptocurrencies and view detailed information.
 3. **Price Chart**: Click on a cryptocurrency to view its price chart and historical data.
 
+
